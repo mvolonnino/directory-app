@@ -9,7 +9,12 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "mdbreact": "^4.27.0",
+    "react-router-dom": "^5.2.0"
   },
   "scripts": {
     "predeploy": "npm run build",
