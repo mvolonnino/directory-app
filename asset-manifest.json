@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/directory-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/directory-app/static/js/main.0fc39d3e.chunk.js",
-    "main.js.map": "/directory-app/static/js/main.0fc39d3e.chunk.js.map",
+    "main.css": "/directory-app/static/css/main.54d2f622.chunk.css",
+    "main.js": "/directory-app/static/js/main.666509e0.chunk.js",
+    "main.js.map": "/directory-app/static/js/main.666509e0.chunk.js.map",
     "runtime-main.js": "/directory-app/static/js/runtime-main.4a664020.js",
     "runtime-main.js.map": "/directory-app/static/js/runtime-main.4a664020.js.map",
-    "static/js/2.cbe8c36f.chunk.js": "/directory-app/static/js/2.cbe8c36f.chunk.js",
-    "static/js/2.cbe8c36f.chunk.js.map": "/directory-app/static/js/2.cbe8c36f.chunk.js.map",
+    "static/css/2.9473847e.chunk.css": "/directory-app/static/css/2.9473847e.chunk.css",
+    "static/js/2.16cc133c.chunk.js": "/directory-app/static/js/2.16cc133c.chunk.js",
+    "static/js/2.16cc133c.chunk.js.map": "/directory-app/static/js/2.16cc133c.chunk.js.map",
     "index.html": "/directory-app/index.html",
-    "precache-manifest.6016a2d91f1466eaec1cd25ba12c4ca7.js": "/directory-app/precache-manifest.6016a2d91f1466eaec1cd25ba12c4ca7.js",
+    "precache-manifest.709554a769589d83c4ad53d4684bb788.js": "/directory-app/precache-manifest.709554a769589d83c4ad53d4684bb788.js",
     "service-worker.js": "/directory-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/directory-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cbe8c36f.chunk.js.LICENSE.txt": "/directory-app/static/js/2.cbe8c36f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/directory-app/static/media/logo.5d5d9eef.svg"
+    "static/css/2.9473847e.chunk.css.map": "/directory-app/static/css/2.9473847e.chunk.css.map",
+    "static/css/main.54d2f622.chunk.css.map": "/directory-app/static/css/main.54d2f622.chunk.css.map",
+    "static/js/2.16cc133c.chunk.js.LICENSE.txt": "/directory-app/static/js/2.16cc133c.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/directory-app/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/directory-app/static/media/fa-solid-900.ee09ad75.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4a664020.js",
-    "static/js/2.cbe8c36f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0fc39d3e.chunk.js"
+    "static/css/2.9473847e.chunk.css",
+    "static/js/2.16cc133c.chunk.js",
+    "static/css/main.54d2f622.chunk.css",
+    "static/js/main.666509e0.chunk.js"
   ]
 }

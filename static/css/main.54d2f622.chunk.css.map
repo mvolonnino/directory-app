@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EACE,qCACF,CAEA,KACE,wBAAyB,CACzB,+BAAuC,CACvC,iBACF","file":"main.54d2f622.chunk.css","sourcesContent":["* {\n  font-family: \"Josefin Sans\", sans-serif;\n}\n\n.bdr {\n  background-color: #2196f3;\n  border-bottom: 5px solid rgb(165, 0, 0);\n  font-style: italic;\n}\n"]}
