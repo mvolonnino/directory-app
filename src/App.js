@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Route exact path="/" component={Search} />
+        <Route path="/" component={Search} />
       </div>
     </Router>
   );
