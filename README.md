@@ -38,7 +38,7 @@
 
 ## Link:
 
-- Please head to link to use the app:
+- Please head to link to use the app: https://mvolonnino.github.io/directory-app/
 
 ## Languages
 
